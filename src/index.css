@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth sliding animation for countdown numbers */
+@keyframes slide {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-slide {
+  animation: slide 0.5s ease-in-out;
+}
+
+/* Optional smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
