@@ -15,21 +15,7 @@ Not just standing by, but actually taking care of things  taking care of me.
 Your patience, your strength... I leaned on that completely, and I’ll never forget it.`,
     `You’re such a kind, strong, and genuine person.
 I really wish you the best life ahead  good health, success, and endless peace and happiness.`,
-    `Since it’s your special day, I wanted to share this beautiful poem by Emily Dickinson.
-It reminds me of your spirit and how you always carry hope no matter what:
-“Hope is the thing with feathers” - By Emily Dickinson`,
-    `Hope is the thing with feathers
-    That perches in the soul
-    And sings the tune without the words
-    And never stops at all
-    And sweetest in the Gale is heard
-    And sore must be the storm
-    That could abash the little Bird
-    That kept so many warm
-    I’ve heard it in the chillest land
-    And on the strangest Sea
-    Yet, never, in Extremity,
-    It asked a crumb—of me.`,
+   
     `Happy Birthday :)
 Hope this year brings you all the love, joy, and everything good you deserve.
 You truly deserve the best.`
